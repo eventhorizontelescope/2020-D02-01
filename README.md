@@ -12,7 +12,7 @@
 
 We release a collection of Metadata to accompany EHT Observations taken in April 2017.
 
-** Directory structure **
+**Directory structure**
 
 **Station Code Table:**
 
