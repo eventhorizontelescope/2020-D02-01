@@ -1,0 +1,6 @@
+antenna='SP' timerange='2017/04/06/08:42:30~2017/04/06/08:43:10' reason='interpolation issue'
+antenna='LM' timerange='2017/04/06/11:50:50~2017/04/06/11:52:00' reason='interpolation issue'
+timerange='2017/04/06/12:09:50~2017/04/06/12:10:10' reason='interpolation issue'
+
+timerange='2017/04/06/04:57:30~2017/04/06/04:58:10' reason='interpolation issue'
+timerange='2017/04/06/06:05:30~2017/04/06/06:06:10' reason='interpolation issue'
