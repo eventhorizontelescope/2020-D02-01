@@ -1,7 +1,8 @@
 # EHT 2017 Calibration Metadata: HOPS control files
 
-**Primary Reference 1:** [The Event Horizon Telescope Collaboration, et al. 2019c, ApJL, 875, L3 (M87 Paper III)](https://doi.org/10.3847/2041-8213/ab0c57)
-**Primary Reference 2:** [Blackburn, L., Chan, C.-k., Crew, G., et al. 2019, ApJ, 882, 23](https://ui.adsabs.harvard.edu/abs/2019ApJ...882...23B/abstract)
+**Primary References:**
+- [The Event Horizon Telescope Collaboration, et al. 2019c, ApJL, 875, L3 (M87 Paper III)](https://doi.org/10.3847/2041-8213/ab0c57)
+- [Blackburn, L., Chan, C.-k., Crew, G., et al. 2019, ApJ, 882, 23](https://ui.adsabs.harvard.edu/abs/2019ApJ...882...23B/abstract)
 
 **Brief Description:**
 
