@@ -10,9 +10,26 @@
 
 **Brief Description:**
 
-We release a collection of Metadata to accompany EHT Observations taken in April 2017.
+We release a collection of Metadata to accompany EHT Observations taken in
+April 2017. This includes a priori estimates of station sensitivity for all EHT
+2017 scans in ANTAB format, as well as control codes for configuring and
+reducing EHT data in the CASA and HOPS radio interferometry software
+environments. Metadata in this package can be used as auxiliary information to
+process original EHT correlator output in FITS-IDI or Mark4 format. Data that
+has already been reduced and calibrated are provided in accompanying EHT
+publications, see for example EHTC 2019c (Paper III).
+
+Further information about EHTC released data sets can be found at the URL,
+ - https://eventhorizontelescope.org/for-astronomers/data
 
 **Directory structure:**
+
+```
+2020-D02-01  # EHT 2017 Calibration Metadata
+  |- antab   # ANTAB tables for a priori flux calibration
+  |- casa    # CASA control files for fringe fitting and data reduction
+  |- hops    # HOPS control files for fringe fitting and data reduction
+```
 
 **Station Code Table:**
 
