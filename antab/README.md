@@ -1,4 +1,4 @@
-# EHT 2017 Calibration Metadata: CASA control files
+# EHT 2017 Calibration Metadata: ANTAB tables for flux calibration
 
 **Primary References:**
 - [The Event Horizon Telescope Collaboration, et al. 2019c, ApJL, 875, L3 (M87 Paper III)](https://doi.org/10.3847/2041-8213/ab0c57)
