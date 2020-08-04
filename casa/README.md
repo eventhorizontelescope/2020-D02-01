@@ -57,7 +57,7 @@ the CASA MeasurementSet and AIPS UVFITS formats.
 | AZ           | Submillimeter Telescope       | Arizona  |
 | JC           | James Clerk Maxwell Telescope | Hawai'i  |
 | LM           | Large Millimeter Telescope    | Mexico   |
-| PV           | IRAM30m                       | Spain    |
+| PV           | IRAM 30m                      | Spain    |
 | SM           | Submillimeter Array           | Hawai'i  |
 | SR           | SMA Reference Antenna         | Hawai'i  |
 | SP           | South Pole Telescope          | S. Pole  |

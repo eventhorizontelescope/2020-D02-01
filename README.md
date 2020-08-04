@@ -40,7 +40,7 @@ Further information about EHTC released data sets can be found at the URL,
 | AZ          | Submillimeter Telescope       | Arizona  |
 | JC          | James Clerk Maxwell Telescope | Hawai'i  |
 | LM          | Large Millimeter Telescope    | Mexico   |
-| PV          | IRAM                          | Spain    |
+| PV          | IRAM 30m                      | Spain    |
 | SM          | Submillimeter Array           | Hawai'i  |
 | SP          | South Pole Telescope          | S. Pole  |
 

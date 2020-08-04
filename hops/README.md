@@ -57,7 +57,7 @@ output for fringe fitted data into UVFITS format.
 | Z                 | AZ          | Submillimeter Telescope       | Arizona  |
 | J                 | JC          | James Clerk Maxwell Telescope | Hawai'i  |
 | L                 | LM          | Large Millimeter Telescope    | Mexico   |
-| P                 | PV          | IRAM                          | Spain    |
+| P                 | PV          | IRAM 30m                      | Spain    |
 | S                 | SM          | Submillimeter Array           | Hawai'i  |
 | R                 | SR          | SMA Reference Antenna         | Hawai'i  |
 | Y                 | SP          | South Pole Telescope          | S. Pole  |

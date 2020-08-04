@@ -1,4 +1,4 @@
-# EHT 2017 Calibration Metadata: ANTAB tables for flux calibration
+# EHT 2017 Calibration Metadata: ANTAB tables for flux density calibration
 
 **Primary References:**
 - [The Event Horizon Telescope Collaboration, et al. 2019c, ApJL, 875, L3 (M87 Paper III)](https://doi.org/10.3847/2041-8213/ab0c57)
@@ -16,6 +16,10 @@ temperatures. Station-specific peculiarities and uncertainty estimates for the g
 in the ANTAB comment blocks. Correction factors for various data issues (EHT et al., 2019c)
 are already incorporated here.
 
+A detailed description of the ANTAB format can be found in the
+[AIPS online documentation](http://www.aips.nrao.edu/cgi-bin/ZXHLP2.PL?antab).
+For the files provided here, a minimal description is given in Janssen et al, 2019.
+
 The flux density calibration can be done with AIPS, CASA, or the apcal tools from
 https://github.com/sao-eht/eat (recommended).
 
@@ -28,7 +32,7 @@ https://github.com/sao-eht/eat (recommended).
 | AZ           | Submillimeter Telescope       | Arizona  |
 | JC           | James Clerk Maxwell Telescope | Hawai'i  |
 | LM           | Large Millimeter Telescope    | Mexico   |
-| PV           | IRAM30m                       | Spain    |
+| PV           | IRAM 30m                      | Spain    |
 | SM           | Submillimeter Array           | Hawai'i  |
 | SR           | SMA Reference Antenna         | Hawai'i  |
 | SP           | South Pole Telescope          | S. Pole  |
